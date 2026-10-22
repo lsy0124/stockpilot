@@ -1,0 +1,232 @@
+{
+  "repository": "lsy0124/stockpilot",
+  "visibility": "private",
+  "file_count_without_manifest": 53,
+  "files": {
+    "stockpilot/crosscheck.py": {
+      "sha256": "422ad603dbbd3c54814a850852f4f29ae2af31747248951f4f0a910216009cb4",
+      "bytes": 5972
+    },
+    "stockpilot/fee_model.py": {
+      "sha256": "bb7cd3063c9c1d3c701376def81b52e995db31750a76f41af447609ec5c7348f",
+      "bytes": 14386
+    },
+    "stockpilot/forward_sim.py": {
+      "sha256": "4e8cfc5e5946dbc41d78f090ab8886867bd70e1a47de21bbb9ce85fb8703cb76",
+      "bytes": 8921
+    },
+    "stockpilot/handoff.py": {
+      "sha256": "7f1974d7be0cc8bae1af4182b6ac73f71e030ee42d1321d5e0a1c4e1c170a6ad",
+      "bytes": 16226
+    },
+    "stockpilot/handoff_v4.py": {
+      "sha256": "4a6344a3aa7455ab70a246059154a480b72e50d8d21b7eb3ca74b1c2b4b480a6",
+      "bytes": 11335
+    },
+    "stockpilot/handoff_v5.py": {
+      "sha256": "7116546081ede83e737e788d3cf8ecf8d0e96495aab0f15f39bc521e6aa51ee8",
+      "bytes": 22549
+    },
+    "stockpilot/ledger.py": {
+      "sha256": "5b82a5b95577d548e7540679f0198e2aae39ca7268c9b88193a898e2250534bb",
+      "bytes": 30854
+    },
+    "stockpilot/pipeline.py": {
+      "sha256": "72e5dd73b1aac96b23a4f0ff7069d025d732302b57342b77cba24942a9171d03",
+      "bytes": 11006
+    },
+    "stockpilot/pipeline_v4.py": {
+      "sha256": "a256af08d9bd3ffcaee7a13c9a060c2229aba9cea64363de5c743cfdc80a6c1c",
+      "bytes": 10118
+    },
+    "stockpilot/quality.py": {
+      "sha256": "4820e462afb65781dd9986fce086b4f322b11bdfc89093a8decbafb266b263a4",
+      "bytes": 6627
+    },
+    "stockpilot/report.py": {
+      "sha256": "8aebae68c332178a13dc8af0c4cf29f8fb3dc801451dd12814592d71d36f2294",
+      "bytes": 12364
+    },
+    "stockpilot/research.py": {
+      "sha256": "3be6457b7d975d5548a51f4ff5ef774249a1e65a1faf155c580d6e69cfb9c144",
+      "bytes": 24746
+    },
+    "stockpilot/research_audit.py": {
+      "sha256": "c6714f9635a99ae89e7f209a6fe5aed836581bc610ae79105719e7d9a6fa5578",
+      "bytes": 21284
+    },
+    "stockpilot/review.py": {
+      "sha256": "b0425689882ed869ea4c460a241c78da62517e7ce842dfbe524ec195d3b512cd",
+      "bytes": 8496
+    },
+    "stockpilot/scheduler.py": {
+      "sha256": "d9dacea8d15e5b30647c5aa713788b1c35fddc40720a184df418f35a11016c89",
+      "bytes": 7060
+    },
+    "stockpilot/screener.py": {
+      "sha256": "5e540650c0410758193ec4b5a26cef2a39221f2b6da1ef9dcf4138611de6c3fa",
+      "bytes": 9702
+    },
+    "stockpilot/simulation.py": {
+      "sha256": "367ada87c2e45fa07029dc8f2568fea4d1f1682e6580a4cbac977be2458b365b",
+      "bytes": 23880
+    },
+    "stockpilot/source_health.py": {
+      "sha256": "dccb53be98860c7b0c3d10ba468af5d93bbcd553a5080d77f0f9fb03132c60d5",
+      "bytes": 5574
+    },
+    "stockpilot/source_registry.py": {
+      "sha256": "b284def700b00e4ddc07e02b0a95110fc4794e853f81fd5449a9749b36fcdff7",
+      "bytes": 11358
+    },
+    "stockpilot/strategy_backtest.py": {
+      "sha256": "ec58e61b5cd8291068cc45c1091f5077c5e6d8f632767f8895102441962cfdcc",
+      "bytes": 20855
+    },
+    "stockpilot/timeutil.py": {
+      "sha256": "685a669b3ee3637767c74a1134469d73bb75f1602dc4c8405d4c98bbbff0b7de",
+      "bytes": 4561
+    },
+    "stockpilot/tradeability.py": {
+      "sha256": "1c5a0253727698b551fbb6f19dbf9e140210fd3611473e58b0323a043f198e2f",
+      "bytes": 8899
+    },
+    "stockpilot/vault_sync.py": {
+      "sha256": "03834f563af995b77afac62f1c307e5d7b2650b17da67100a7fc0cca3d7a9245",
+      "bytes": 9339
+    },
+    "stockpilot/__init__.py": {
+      "sha256": "bb2f6ef1b994d5dd58e1375480834001f633e6f025a8822c2c1f9c94c83f2401",
+      "bytes": 4293
+    },
+    "stockpilot/collectors/news.py": {
+      "sha256": "29f3a928d881c21bed60f8b26b90fedac605cc91994a5514c90d9c588085f716",
+      "bytes": 12681
+    },
+    "stockpilot/collectors/quote.py": {
+      "sha256": "5baed37294a23b6707deb6e7d7ac6e9aa8b5c7960f06340eaeb2a4365b8aa091",
+      "bytes": 18875
+    },
+    "stockpilot/collectors/__init__.py": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    "stockpilot/tests/test_handoff_backup.py": {
+      "sha256": "d685a491c5f8c45d309dae29526d33aa4615963334be2f9864fa4429d9a91a78",
+      "bytes": 12525
+    },
+    "stockpilot/tests/test_ledger.py": {
+      "sha256": "035ef8bf98168fc2a8289acc181706ee5c481d9be489164691cd8cb4f38081f4",
+      "bytes": 16554
+    },
+    "stockpilot/tests/test_quality.py": {
+      "sha256": "fb367b466be45936c0da7149294eff1a85b1c051f8e28a6753d6a82996e70df7",
+      "bytes": 12595
+    },
+    "stockpilot/tests/test_stage4.py": {
+      "sha256": "229eb92b3a83089c11ca4cc1fafc3f47e67f088b822e52ba8457d509a39673b9",
+      "bytes": 13128
+    },
+    "stockpilot/tests/test_stage5.py": {
+      "sha256": "ac83cb2a8d02f7fd0b3f856f6095734606c670c0c2b21d638d8a02082c959c73",
+      "bytes": 28798
+    },
+    "scripts/cost_model.py": {
+      "sha256": "cfff1a2b84e10f082277df10f62cae926e1eaccd70b607ad9bd7a235d3bfabd5",
+      "bytes": 2938
+    },
+    "scripts/probe_backtest.py": {
+      "sha256": "e9f37e81444d4f0f332486498d81035e9d121e649aa58334fbbfb57f41b8e111",
+      "bytes": 5542
+    },
+    "scripts/probe_http.py": {
+      "sha256": "485be8faa23675977cd5c7a4e897f6be32475893e0ca11d9f5e738e86eea9c0b",
+      "bytes": 7233
+    },
+    "scripts/probe_http2.py": {
+      "sha256": "243b709fb4b4354236114d628284b04d235948f5050a47683c2620dc246c9a87",
+      "bytes": 6369
+    },
+    "scripts/probe_mcp.py": {
+      "sha256": "cbec08c8ec0d5b813c4c88d1451de7ea77dbb2f7bafad13c0902c96c997cb188",
+      "bytes": 3060
+    },
+    "scripts/probe_sources.py": {
+      "sha256": "8c35ac4cc801341d3bc093e0fbb4eee19e83ae1be4a841d1bb51b154d3e712e7",
+      "bytes": 4025
+    },
+    "scripts/requirements-offline-lock.txt": {
+      "sha256": "6fa9001dd3b2c7cfc56361cf88e33b35aabd80b6c07bc84428525f6acaf5b124",
+      "bytes": 224
+    },
+    "scripts/requirements.txt": {
+      "sha256": "24174dc2b0a2f85a41fee91be5a96d6ed58156a27ff6bb17b085616b01602911",
+      "bytes": 300
+    },
+    "scripts/sim_demo.py": {
+      "sha256": "3adb7549b5aabc3a2c461f4a409ddaa310f6f2c3609b4f14a4ef24c2c9dae38d",
+      "bytes": 6389
+    },
+    "scripts/test_offline.py": {
+      "sha256": "f1bd75ec1e029f892c098c9426c1dd78ee604ad78b9440d6128e02f2125757ab",
+      "bytes": 1189
+    },
+    "README.md": {
+      "sha256": "1651f33c095cbe3e98cf5d85bd5a0aea45b431ec4e1acfb49cfff1a803b43a35",
+      "bytes": 4374
+    },
+    "README.zh-CN.md": {
+      "sha256": "22b0c92d1684e646af599cb7b219ea6cd5690836c2763459dd737aadb9b1c1d5",
+      "bytes": 2350
+    },
+    "CONTRIBUTING.md": {
+      "sha256": "f69fbfb2c203a89200678239c0083d009a602ff90ece2323b74a74e06f25954b",
+      "bytes": 599
+    },
+    "SECURITY.md": {
+      "sha256": "2ce326965037add2675a4c3f4fff8753d51af6072ce364751cb6c610cf7d046b",
+      "bytes": 887
+    },
+    "CHANGELOG.md": {
+      "sha256": "eb51b0b1f516e913a44ee6461dfe91bf5967f6e1478d011b742b7ffc6c91cd54",
+      "bytes": 806
+    },
+    "pyproject.toml": {
+      "sha256": "12942a123975780dbfa8d3c8574960ddac7f19291f94c2bb65fd2a064b1ef8a7",
+      "bytes": 375
+    },
+    ".gitignore": {
+      "sha256": "28d8255be37c7f2e5a3aca5611375f45a55b982535540ddf4e6d2e41c0a5690c",
+      "bytes": 235
+    },
+    ".env.example": {
+      "sha256": "dc6045261a031b6767bc366e281915e385beb6e4a54de7becd0720e32fa3b933",
+      "bytes": 173
+    },
+    "docs/DEPENDENCIES.md": {
+      "sha256": "73218a551b2a5bc91ee65ca247f3f5b61134a22c6c2b17d1a1ea572875c24878",
+      "bytes": 1111
+    },
+    "docs/VALIDATION.md": {
+      "sha256": "c9c8cc30a04600d13a95a092af91b85b90db825fc5bee5229695cd41b4f79a1c",
+      "bytes": 1163
+    },
+    ".github/workflows/offline.yml": {
+      "sha256": "be9fed68725ccac165078c107e685d9686325081aca5159a130edd5763633b37",
+      "bytes": 459
+    }
+  },
+  "omitted": [
+    "operator databases",
+    "market/news datasets",
+    "reports and handoff ZIPs",
+    "logs and audits",
+    "vaults and backups",
+    "virtualenvs",
+    "old local acceptance documents"
+  ],
+  "workflow": "manual dispatch only; not run by upload",
+  "license": "undecided; no license file added",
+  "scan": "source-only credential-shape and personal-path heuristic; no matches",
+  "source_history_included": false
+}

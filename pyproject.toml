@@ -1,0 +1,15 @@
+[build-system]
+requires = ["setuptools>=77"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "stockpilot-local"
+version = "0.5.1"
+description = "Local research evidence and paper-trading workflows"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = ["requests==2.34.2", "certifi>=2026.10.19"]
+
+[tool.setuptools.packages.find]
+include = ["stockpilot*"]
+

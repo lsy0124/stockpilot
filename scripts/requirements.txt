@@ -1,0 +1,13 @@
+# StockPilot venv 锁定版本（阶段 B 必须沿用）
+# 注意：pandas 必须 < 3.0，否则 akshare 1.19.1 报 ArrowInvalid
+akshare==1.19.1
+pandas==2.3.3
+numpy==2.3.5
+requests==2.34.2
+vectorbt==1.1.2
+backtrader==1.9.78.123
+duckdb==1.5.6
+pyarrow
+fastmcp==4.1.0
+openai==3.33.0
+matplotlib==3.10.9
